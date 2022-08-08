@@ -1,3 +1,7 @@
+# Project from tutorial
+
+Learning goal is to learn basic implementation of Redux in React app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
